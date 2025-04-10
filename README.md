@@ -30,8 +30,3 @@ Mô hình được đánh giá dựa trên chỉ số:
 * Kết hợp hai kĩ thuật mạnh mẽ:
 * Label Encoding: giúp LightGBM dễ dàng tìm kiếm các mối quan hệ giữa các giá trị phân loại mà không phải thực hiện các phép toán phức tạp. 
 * LightGBM: Xử lý nhanh chóng các dữ liệu lớn và có thể xử lý các đặc trưng phân loại hiệu quả. 
-* Recall
-* Precision
-* F1-score
-* Inference Time
-* IoU (Intersection over Union) 
